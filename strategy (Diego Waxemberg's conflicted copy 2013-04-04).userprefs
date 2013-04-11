@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Ships/Ships.cs">
+    <Files>
+      <File FileName="Assets/Ships/Ships.cs" Line="55" Column="41" />
+      <File FileName="Assets/Ships/AIAttack.cs" Line="33" Column="21" />
+      <File FileName="Assets/Upgrade_Weapon.cs" Line="14" Column="19" />
+      <File FileName="Assets/AddOns.cs" Line="12" Column="18" />
+      <File FileName="Assets/Ships/Attack.cs" Line="32" Column="35" />
+      <File FileName="Assets/Main_Controller.cs" Line="50" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
